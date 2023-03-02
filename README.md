@@ -6,4 +6,4 @@ CA console application that converts a number to another number system.<br />
 The project was enriched, in addition to the requirements of HyperSkill site tests, with a simple exception handling.
 
 ## Preview
-![NumercialConverter](https://user-images.githubusercontent.com/56168607/220974098-dd57afd1-3a55-4b30-83d6-9679b1efd382.gif)
+![converter](https://user-images.githubusercontent.com/56168607/222486905-7d2a43a4-0282-43a7-a5d1-dc9d576c9791.gif)
